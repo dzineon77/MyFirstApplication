@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Dzineon_intro">Hello World! My name is Dzineon Gyaltsen. I am a CS/Engineering double major student at Swarthmore College. I am a Junior (\'24), and my pronouns are he/him.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
